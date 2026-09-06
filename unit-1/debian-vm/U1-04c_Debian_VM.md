@@ -29,4 +29,4 @@
 - Date taken: 03.09.2026 
 
 ## What worked, what didn't
-Two or three sentences on the install experience. What was confusing? What surprised you? What would you do differently if you did it again?
+There weren't any major problems because the installation followed the instructions. Of course, there was one issue with the VBoxLinuxAdditions.run file. Honestly, I still don't really understand how I did it. This file was in a directory and simply wouldn't run. Thanks to root rights and a little help from AI, I was able to do it. I could probably do it again without AI, but I would definitely need an internet connection.
