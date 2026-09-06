@@ -13,7 +13,7 @@
 - Network mode: NAT (default)
 
 ## User account
-- Username: 
+- Username: ivan
 - Root account: enabled 
 - Sudo works: yes 
 
@@ -25,7 +25,7 @@
 - Version (from `VBoxClient --version` in the VM): 7.2.16r174877
 
 ## Snapshot
-- Snapshot name: IvanSnapshot
+- Snapshot name: clean-install-guest-additions
 - Date taken: 03.09.2026 
 
 ## What worked, what didn't
