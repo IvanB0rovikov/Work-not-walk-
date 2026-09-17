@@ -22,10 +22,18 @@ Q11. I used "mkdir" com.
 
 Q12. I used Ctrl+X to exit from nano and save file by pressing Y.
 
-Q13. Its failed cuz the dir is not empty.
+Q13. Its failed cuz the dir is not empty. I used com "rm -r" to delete "Scratch" dir.
 
-Q14. I used com "rm -r" to delete "Scratch" dir.
+Q14. 13.7
 
-Q15. 13.7
+Q15. I see massages about system reloading which finished in 612 ms.    
 
-Q16. 
+Q16. 1 line.
+
+Q17. I added -mtime -7 to com find /etc -name "*.conf" to see modifie in the last 7 days.
+
+Q18. /usr/bin/ls and /usr/bin/nano
+
+Q19. It acts as a pipe, sending the output of one command as the input to another command.
+
+Q20. 
