@@ -36,4 +36,4 @@ Q18. /usr/bin/ls and /usr/bin/nano
 
 Q19. It acts as a pipe, sending the output of one command as the input to another command.
 
-Q20. 
+Q20. The > command simply truncates the output, while the >> command allows you to append data to the end of the line while preserving the previous files.
