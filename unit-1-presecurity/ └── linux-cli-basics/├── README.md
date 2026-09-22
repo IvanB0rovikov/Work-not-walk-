@@ -37,3 +37,25 @@ Q18. /usr/bin/ls and /usr/bin/nano
 Q19. It acts as a pipe, sending the output of one command as the input to another command.
 
 Q20. The > command simply truncates the output, while the >> command allows you to append data to the end of the line while preserving the previous files.
+
+Q21. output is "hello cyber world"  , “clear” is a separate command that is saved in the terminal history, while "Ctrl+L" is just a key combination—it isn't saved in the history.
+
+Q22. total 12
+drwxrwxr-x 3 vboxuser vboxuser 4096 Sep 22 06:39
+drwx ---   16 vboxuser vboxuser 4096 Sep 22 06:39
+drwxrwxr-x 2 vboxuser vboxuser 4096 Sep 17 07:13 unit1
+
+Q23. The flags c, z, v, and f most often refer to processor status flags in computer architecture and assembly language, or to international maritime signal flags in sailing.
+1. Processor / Assembly Language Flags In computer processors (arithmetic-logic units, ALUs), these flags store information about the status of the results of arithmetic and logical operations:
+c (carry flag): set to 1 if a carry or borrow occurs from the most significant bit as a result of addition or subtraction (unsigned overflow handling).
+z (zero flag): set to 1 if the result of the last operation is zero.
+v (overflow flag): Set to 1 when the result of a signed arithmetic operation is too large or too small to fit in the destination register (signed overflow).
+f (direction/interrupt/error flag): Depending on the architecture, this may indicate a direction flag (controlling increment/decrement when working with strings), an interrupt enable flag, or a floating-point condition.
+
+Q24. -rw-rw-r--  owner dosnt have permissions to execute.
+
+Q25. Permission denied, maybe I'm not the owner of the file, or maybe it's read-only.
+
+Q26. Yes, script running and the line become green.
+
+Q27. 
