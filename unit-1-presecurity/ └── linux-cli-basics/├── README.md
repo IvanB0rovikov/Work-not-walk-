@@ -58,4 +58,6 @@ Q25. Permission denied, maybe I'm not the owner of the file, or maybe it's read-
 
 Q26. Yes, script running and the line become green.
 
-Q27. 
+Q27. Code 700 means full access for the owner and no access at all for everyone else.
+
+Q28. 
