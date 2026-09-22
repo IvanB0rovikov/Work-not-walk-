@@ -60,4 +60,24 @@ Q26. Yes, script running and the line become green.
 
 Q27. Code 700 means full access for the owner and no access at all for everyone else.
 
-Q28. 
+Q28. The “User” column displays the username of the user who started the process.
+
+Q29. 48k
+
+Q30. 1.9 Gi - total, 1.0 Gi - used
+
+Q31. 127.0.0.1/8
+
+Q32. Both succeed.
+
+Q33. Yes, two files are identical.
+
+Q34. Sudo asked for my password.
+
+Q35. Yes, 4 packages were updated.
+
+Q36. Top: Features a simple monochrome or basic text-based interface. It is controlled exclusively via the keyboard. Htop: Supports color-coded displays (graphical bars showing memory and CPU usage). It works with a computer mouse—you can click on lines and buttons and scroll through the list.
+
+Q37. The Network Mapper.
+
+Q38. 
