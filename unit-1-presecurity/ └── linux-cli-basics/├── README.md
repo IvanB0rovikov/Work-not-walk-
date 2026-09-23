@@ -337,3 +337,6 @@ tmpfs           987M   16K  987M   1% /tmp
 tmpfs           198M  104K  198M   1% /run/user/1000"
 zip -r report.zip ~/report
 unzip -l report.zip
+
+
+--The syntax caused the most trouble when working in the Linux terminal, as I constantly had to look up the commands needed for a task or recall ones from previous assignments. I really enjoy managing to do things on my own, without relying on AI or search engines. I think I’ll be using the `sudo apt update/install` command most often, since I’ll constantly need to expand my library of utilities and applications. I wouldn't say any specific command truly surprised me, though some did make me stop and think—for instance, the `curl` utility; I didn't have it installed, so I used the aforementioned `sudo apt update/install` command, and it worked perfectly—that was pretty cool.
