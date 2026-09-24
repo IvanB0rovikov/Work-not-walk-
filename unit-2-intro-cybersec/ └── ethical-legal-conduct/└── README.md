@@ -40,4 +40,22 @@ Of course, I would not log into the system or view any data; as I have already s
 I would go and consult with management, because this matter directly concerns me; if that password were to be lost, all signs would point to me, since I was the last person near that sticky note—I can't simply ignore this.
 
 
+### Scenario 3 : The personal data peek
 
+**What is happening (in my own words):**
+I am being asked to use my privileges to view an email in a confidential database.
+
+**What's legally at stake:**
+I don't think much needs to be written here; as stated in the GDPR regulations, access to a database does not grant you the right to view that database.
+
+**What's ethically at stake:**
+This ethical issue is similar to the first scenario because, here too, I am being asked for a favor that involves accessing someone’s information. And once again, if I refuse, there is a high probability that the colleague will hold a grudge against me—even though the request was highly risky from the start.
+
+**What I would do:**
+I would refuse to do it. For one thing, this colleague isn't even from my department, so I wouldn't feel guilty about saying no. Secondly, the request was doomed from the start; patience is a crucial human quality, and I don't think finding out one's assessment results is worth taking such a huge risk—or dragging others into it. That is very selfish.
+
+**What I would NOT do, and why:**
+I wouldn’t carry out that request—it’s foolish—but I would try talking to her to explain my position and point out that it’s unreasonable. If I were ignored and asked again—along with a colleague—to read a letter from a restricted database, then I would go to management.
+
+**Who I would consult:**
+I don't think I would need anyone's advice in this situation.
