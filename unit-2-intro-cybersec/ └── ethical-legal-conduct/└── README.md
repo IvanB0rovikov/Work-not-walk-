@@ -108,3 +108,6 @@ Of course, I wouldn’t agree to that request; it’s incredibly stupid to risk 
 
 **Who I would consult:**
 I think that in this situation, I would seek advice from a lawyer experienced in such cases and from my uncle, because he has experience working at an IT company.
+
+
+<img width="862" height="247" alt="image" src="https://github.com/user-attachments/assets/ddfb8be7-8c91-41db-a903-35f8cde45619" />
