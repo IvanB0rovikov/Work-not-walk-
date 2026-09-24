@@ -59,3 +59,24 @@ I wouldn’t carry out that request—it’s foolish—but I would try talking t
 
 **Who I would consult:**
 I don't think I would need anyone's advice in this situation.
+
+
+### Scenario 4 : The vulnerability you accidentally noticed
+
+**What is happening (in my own words):**
+Out of simple curiosity, I discovered a vulnerability in a website that stores databases containing information on a large number of people. Through this vulnerability, I can view customers' order histories, which effectively amounts to spying on individuals.
+
+**What's legally at stake:**
+From a legal standpoint, the mere fact that I stumbled upon this error and accessed another customer's purchase history constitutes a crime; if this comes to light, I will face punishment even if the customer suffers no financial loss.
+
+**What's ethically at stake:**
+From an ethical standpoint, if I put myself in that client's shoes—even if I hadn't ordered anything unusual—I wouldn't feel comfortable knowing that someone could view my order history. It isn't the clients' fault that the site has a vulnerability, but the site itself isn't to blame either; errors have always existed and always will—they are unavoidable.
+
+**What I would do:**
+In a situation like this, I would immediately write to the site's support team; this isn't just about customer convenience—it’s about my own freedom. If someone else discovers this bug and the information goes public, they will also find out that someone logged into another person's account from my device. At that point, excuses like "I was scared" or "I didn't know what it was" won't hold water, and I’ll be held legally accountable.
+
+**What I would NOT do, and why:**
+One thing I certainly wouldn't do is browse other clients' data using this vulnerability; such actions would turn me into a real criminal—someone who fully understood what they were doing and acted deliberately, even if without malicious intent.
+
+**Who I would consult:**
+In this situation, it is best to seek advice from a lawyer specializing in information technology.
