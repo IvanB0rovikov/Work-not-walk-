@@ -17,3 +17,27 @@ Naturally, I won’t do what I was asked to do, even if a colleague says that it
 
 **Who I would consult:**
 I wouldn't consult other colleagues, as that could lead to a scandal or even the employee's dismissal; instead, I would consult my grandfather, because I value his opinion, and my uncle, because he has extensive experience working in an IT company.
+
+
+### Scenario 2 : The found credentials
+
+**What is happening (in my own words):**
+While doing my job, I accidentally stumbled upon my boss's computer password, which means I can access the entire company's database.
+
+**What's legally at stake:**
+There is nothing illegal about replacing a keyboard; however, using an administrator password to access the system is a completely different matter. Such access would have allowed me to obtain details regarding source code, data, and financial transfer routes, as well as information about clients, suppliers, and employees. It should be noted, however, that had I broken the law, the manager would also have faced penalties for negligence regarding such critical information.
+
+**What's ethically at stake:**
+From an ethical standpoint, I have two options: either pretend I didn't see anything and simply do my job, or report the matter to management so they can reconsider their approach to safety.
+
+**What I would do:**
+What would I do? That’s a good question, as a multitude of factors come into play: my relationship with management, my state of mind at the time, my financial situation, and so on. Honestly, I believe in karma and want to live without regrets, so I would take the sticker and hand it over to management; I would explain the situation and state that I hadn’t taken any action or accessed any systems. That is exactly what I would do—regardless of the decision they ultimately made.
+
+**What I would NOT do, and why:**
+Of course, I would not log into the system or view any data; as I have already said, I am convinced that any action contrary to my conscience will be punished.
+
+**Who I would consult:**
+I would go and consult with management, because this matter directly concerns me; if that password were to be lost, all signs would point to me, since I was the last person near that sticky note—I can't simply ignore this.
+
+
+
