@@ -1,4 +1,10 @@
-
+ My personal code of conduct:
+ 1. Not to view confidential data, even if I have access to it
+ 2. Not to use my opportunities and privileges to harm others.
+ 3. To be honest with oneself and others regarding work in the information technology sector.
+ 4. Not to take advantage of the ignorance of people who lack expertise in the areas where I have it.
+ 5. Report any system errors found to prevent future issues.
+    
 ### Scenario 1: The colleague's password
 
 **What is happening (in my own words):**
