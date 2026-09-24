@@ -1,3 +1,4 @@
+
 ### Scenario 1: The colleague's password
 
 **What is happening (in my own words):**
@@ -80,3 +81,24 @@ One thing I certainly wouldn't do is browse other clients' data using this vulne
 
 **Who I would consult:**
 In this situation, it is best to seek advice from a lawyer specializing in information technology.
+
+
+### Scenario 5 : The off-hours request
+
+**What is happening (in my own words):**
+I’m literally being asked to hack a site—on the grounds that something is wrong with it—it’s fucking unbelievable.
+
+**What's legally at stake:**
+In the eyes of the law, this is a direct path to prison; I would literally be a bank robber—even if someone from that company asked me to do it. It is a very serious crime, and I would be the only one held accountable.
+
+**What's ethically at stake:**
+From an ethical standpoint, this is also very strange, because the person asking me should realize they are asking me to break the law—simply to check a website. Even if that person is a family member, it makes no difference; asking for something like that is very selfish.
+
+**What I would do:**
+If I were asked to do something like that, I wouldn't do it, because—as I mentioned earlier—it amounts to attempted robbery. In such a situation, I would advise the person making the request to think before they speak. Companies employ ethical hackers to handle these kinds of tasks legally and for payment; anything else is a crime.
+
+**What I would NOT do, and why:**
+Of course, I wouldn’t agree to that request; it’s incredibly stupid to risk my freedom just to see why a site is taking a long time to load. It would be a different story if they at least offered money for it—though I’m joking. I would agree to it if I were officially hired to perform such tasks, so that I’d be completely in the clear legally.
+
+**Who I would consult:**
+I think that in this situation, I would seek advice from a lawyer experienced in such cases and from my uncle, because he has experience working at an IT company.
