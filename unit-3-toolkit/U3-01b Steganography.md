@@ -8,3 +8,4 @@ method 2
 <img width="1920" height="955" alt="VirtualBox_IvanDebian_16_10_2026_15_34_09" src="https://github.com/user-attachments/assets/fb557591-9c36-4ec3-8de5-9e989984b0f1" />
 
 ## Task 3
+<img width="1920" height="955" alt="VirtualBox_IvanDebian_16_10_2026_17_22_54" src="https://github.com/user-attachments/assets/9102bc3f-84e5-4b1a-a749-5c7053fab2fa" />
